@@ -16,7 +16,7 @@ This repository contains end-to-end Power BI dashboards demonstrating data clean
 - Power Query
 - SQL
 - Excel
-- Python (Basics)
+- Python
 
 ---
 
